@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pemba.sfgdi.Controllers.SetterInjectedControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-14T21:52:51" hostname="Fatumas-MacBook-Pro.local" time="0.061">
+  <properties/>
+  <testcase name="getGreeting()" classname="com.pemba.sfgdi.Controllers.SetterInjectedControllerTest" time="0.061"/>
+  <system-out><![CDATA[Hello World
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
